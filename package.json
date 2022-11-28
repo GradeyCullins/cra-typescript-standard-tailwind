@@ -42,7 +42,10 @@
     ]
   },
   "devDependencies": {
-    "ts-standard": "^12.0.1",
-    "husky": "^8.0.0"
+    "autoprefixer": "^10.4.13",
+    "husky": "^8.0.0",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "ts-standard": "^12.0.1"
   }
 }
